@@ -11,3 +11,7 @@
 # rizz theme
 <img src="https://raw.githubusercontent.com/UndefinedClear/XRat-themes/refs/heads/main/rizz.png">
 <a href="https://raw.githubusercontent.com/UndefinedClear/XRat-themes/refs/heads/main/rizz.png">Press on this "copy like link"</a>
+
+# toaster theme
+<img src="https://raw.githubusercontent.com/UndefinedClear/XRat-themes/refs/heads/main/toaster.png">
+<a href="https://raw.githubusercontent.com/UndefinedClear/XRat-themes/refs/heads/main/toaster.png">Press on this "copy like link"</a>
