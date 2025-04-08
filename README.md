@@ -6,7 +6,7 @@
 
 # mill's theme 2
 <img src="https://raw.githubusercontent.com/UndefinedClear/XRat-themes/refs/heads/main/Group_2.png">
-<a href="https://raw.githubusercontent.com/UndefinedClear/XRat-themes/refs/heads/main/mill.png">Press on this "copy like link"</a>
+<a href="https://raw.githubusercontent.com/UndefinedClear/XRat-themes/refs/heads/main/Group_2.png">Press on this "copy like link"</a>
 
 # black theme
 <img src="https://raw.githubusercontent.com/UndefinedClear/XRat-themes/refs/heads/main/black.png">
